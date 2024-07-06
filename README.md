@@ -8,7 +8,7 @@ I'm actively working on [xo-lang](https://github.com/vh8t/xo-lang), a project th
 
 ### Connect with Me
 - **Personal website:** [vh8t.xyz](https://vh8t.xyz)
-- **Projects:** [vh8t.xyz/p](https://vh8t.xyz/v)
+- **Projects:** [vh8t.xyz/p](https://vh8t.xyz/p)
 - **Blogs:** [vh8t.xyz/c](https://vh8t.xyz/c)
 - **Instagram**: [@golis.sam](https://www.instagram.com/golis.sam)
 
