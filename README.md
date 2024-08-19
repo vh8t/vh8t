@@ -4,7 +4,7 @@
 Hello! I'm Samuel, known online as vh8t. As a software engineering student, coding is my passion. I love diving into projects and exploring new technologies.
 
 ### Current Project
-I'm actively working on [xo-lang](https://github.com/vh8t/xo-lang), a project that I'm really excited about. Contributions and help are always appreciated!
+I'm actively working on [xylia](https://github.com/vh8t/xylia), a project that I'm really excited about. Contributions and help are always appreciated!
 
 ### Connect with Me
 - **Personal website:** [vh8t.xyz](https://vh8t.xyz)
